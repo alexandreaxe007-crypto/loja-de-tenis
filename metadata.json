@@ -1,0 +1,6 @@
+{
+  "name": "KINETIX Footwear",
+  "description": "Loja oficial de tênis de alta performance e streetwear esportivo com tecnologia de amortecimento reativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
